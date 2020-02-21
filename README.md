@@ -2,7 +2,8 @@
 
 # Sample Blog Web App Using NodeJS, Semantic UI, Express, and Mongo
 
-### This app supports all CRUD functionality. 
+### This app supports all CRUD functionality.
+### Follows RESTFUL Conventions
 ### Uses EJS. 
 ### Posts support HTML markup.  
 
