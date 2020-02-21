@@ -2,9 +2,9 @@
 
 # Sample Blog Web App Using NodeJS, Semantic UI, Express, and Mongo
 
-## - This app supports all CRUD functionality. 
-## - Uses EJS. 
-## - Posts support HTML markup.  
+# - This app supports all CRUD functionality. 
+# - Uses EJS. 
+# - Posts support HTML markup.  
 
 ### Index Page
 
@@ -17,3 +17,11 @@
 ### Edit & Delete Page
 
 ![Edit And Delete Page](images/edit-and-delete.png)
+
+# Prerequisiites 
+Have a MongoDB service linked to the app. Developed with MongoDB Community Edition Version 4.2
+
+On Mac, with MongoDB Community installed :
+- brew services start mongodb-community
+- npm install
+- node app.js
